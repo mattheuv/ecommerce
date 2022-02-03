@@ -1,11 +1,7 @@
-#Comandos para crear dependencia en NPM
+#E-COMMERCE PROYECTO FINAL CODERHOUSE
+MATTHEUV OSORIO CARDONA
 
-Para subir la versión usamos => npm version patch 
-(sube a una versión menor, si estaba en 0.1.1 sube a 0.1.2)
+#Para ejecutar proyecto
 
-Para publicarlo
-npm publish
-
-#NVM NODE VERSION MANAGER
-
-Nos permite administrar varias versiones de Node en un servidor.
+1. Crear archivo .env
+2. Agregar variables de desarrollo: MONGO_URL y SOCKET_PORT
