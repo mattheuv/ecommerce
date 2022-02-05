@@ -1,4 +1,4 @@
-var socket = io.connect("http://localhost:8080", { forceNew: true });
+var socket = io.connect("http://3.18.81.68:8080", { forceNew: true });
 
 socket.on("messages", function (data) {
   let index = data.length
